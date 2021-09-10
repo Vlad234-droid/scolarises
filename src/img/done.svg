@@ -1,0 +1,10 @@
+<svg width="208" height="208" viewBox="0 0 208 208" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="208" height="208" fill="#E5E5E5"/>
+<g id="Frame 5">
+<rect width="1440" height="960" transform="translate(-902 -152)" fill="white"/>
+<rect id="Rectangle 32" x="-116" y="-76" width="440" height="472" rx="4" fill="white" stroke="#E6FCF1" stroke-width="8"/>
+<circle id="Ellipse 1" cx="104" cy="104" r="104" fill="#03DB6F" fill-opacity="0.2"/>
+<circle id="Ellipse 2" cx="104" cy="104" r="72" fill="#03DB6F" fill-opacity="0.5"/>
+<path id="Vector 1" d="M74.5 106L99 130L138 78" stroke="white" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
