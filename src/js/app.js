@@ -104,7 +104,6 @@ submBtn.addEventListener('click', (e) => {
 
   e.preventDefault();
 });
-
 let timeID = null;
 const runHeaderAnimation = () => {
   header.classList.add('walk');
