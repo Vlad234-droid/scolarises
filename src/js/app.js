@@ -106,7 +106,6 @@ submBtn.addEventListener('click', (e) => {
 });
 
 let timeID = null;
-
 const runHeaderAnimation = () => {
   header.classList.add('walk');
   clearTimeout(timeID);
